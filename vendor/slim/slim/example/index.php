@@ -27,7 +27,7 @@ $app = new Slim\App();
  * is an anonymous function.
  */
 
-require_once('../include/Config.php');
+require_once('../include/config.php');
 
 require_once('../api/user.php');
 
